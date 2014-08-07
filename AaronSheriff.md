@@ -144,7 +144,3 @@ References
 --------------------------------------------------------------------------------
 Available on request.
 
-
-<section class='about'>
-Created with [markdown-pdf](https://github.com/alanshaw/markdown-pdf "Node module that converts Markdown files to PDFs.")
-</section>
