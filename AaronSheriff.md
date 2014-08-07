@@ -19,24 +19,23 @@ user experience/interface, and usability.
 
 Skills
 --------------------------------------------------------------------------------
-*   __Very Experienced__
+*   __Languages__
 
-    JavaScript, jQuery, jQuery UI, Backbone, Backbone.Marionette, Underscore,
-    Jasmine, Sinon, Ajax, JSON, JSON Schema, CSS3, :SASS, Compass, Stylus,
-    HTML5, XHTML, HAML, Handlebars
+    JavaScript, node.js, HTML5, CSS3, Ruby, Bash scripting, PHP, SQL, XSLT
 
-*   __Experienced__
+*  __Frameworks and Libraries__
 
-    WebSockets, node.js, Ruby, XML, XSLT, XML-RPC, SQL, PHP, RegExp
+    jQuery, jQuery UI, Backbone, Backbone.Marionette, Underscore, Jasmine, Mocha,
+    Sinon, :SASS, Compass, Stylus, HAML, Handlebars
 
-*   __Some Experience__
+*   __Technologies__
 
-    Bash scripting, Python, C#, Perl, VBScript
+    Ajax, JSON, JSON Schema, WebSockets, XML, XML-RPC
 
 *   __Tools__
 
     Linux, Mac, Windows, Cygwin, SublimeText, Git, Subversion, thor, npm,
-    grunt, ImageMagick, Photoshop, Axure, Balsamiq, WireframeSketcher
+    grunt, browserify, ImageMagick, Photoshop, Axure, Balsamiq, WireframeSketcher
 
 
 
@@ -59,13 +58,16 @@ backbone.nested, and backbone.stickit into a single, cohesive web UI/UX.
 
 Created front-end development processes for automating building, optimizing,
 testing, and deploying web assets. Integrated front-end tooling with embedded
-Linux build system (BitBake). Tools used include Ruby, thor, node.js, grunt,
+Linux build system (BitBake). Tools used include Ruby, thor, node.js, npm, grunt,
 browserify/CommonJS, jasmine, and phantom.js.
 
 Championed migration from SVN to Git, migrated legacy repositories, and provided
 training and support for new Git users. Assisted in creating process work flows
 using 3rd party tools such as Jira, Bitbucket, Crucible, and Jenkins to
 facilitate issue tracking, code review, automated builds, and release management.
+
+Participated in recruiting, interviewing, and hiring decisions. Tasked Jr. front
+and back-end developers.
 
 
 
