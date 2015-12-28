@@ -1,5 +1,6 @@
 Aaron Sheriff
 ================================================================================
+
 <section class='contact'>
 aaron.sheriff@gmail.com
 612-208-8155
@@ -8,6 +9,7 @@ aaron.sheriff@gmail.com
 
 Summary
 --------------------------------------------------------------------------------
+
 Web developer with 15 years experience creating sites from conception through
 implementation and maintenance. Strong experience in MVC frameworks and Ajax
 development. Proficient in cross-browser CSS and JavaScript, including
@@ -19,6 +21,7 @@ user experience/interface, and usability.
 
 Skills
 --------------------------------------------------------------------------------
+
 *   __Languages__
 
     JavaScript, node.js, HTML5, CSS3, Ruby, Bash scripting, PHP, SQL, XSLT
@@ -41,7 +44,9 @@ Skills
 
 Experience
 --------------------------------------------------------------------------------
+
 ### Vaddio ###
+
 > Minnetonka MN                                       * October 2011 – Present *
 
 #### Senior Web Applications Developer ####
@@ -75,12 +80,12 @@ decisions. Tasked Jr. front and back-end developers. Member of 3 person
 Architecture Team.
 
 
-
-
 ### SHPS / Carewise Health ###
+
 > Plymouth MN                                     * August 2001 – October 2011 *
 
 #### Developer 3 ####
+
 Created high-fidelity prototype for new product utilizing Ruby (Ramaze MVC
 framework), Sequel ORM, SQLite, HAML, and SASS. Worked with business owners,
 subject matter experts, and UI/UX designers to implement large prototype of site
@@ -92,26 +97,27 @@ SOA .NET webapp comprised of more than 10 services developed by more than 30
 onshore and offshore backend developers. Integrated 3rd party XML content using
 XSLT. Integrated and debugged 3rd party flash libraries and content.
 
-
 #### Automation Engineer ####
+
 Administrated internal issue tracking application (TeamTrack) and worked with
 business stakeholders to create workflows and data gathering forms.
 Administrated and extended features of internal Twiki. Automated e-mail campaign
 message creation. Provided support to SharePoint content creators.
 
-
 #### Web Master ####
+
 Created and launched redesigned corporate extranet. Developed and maintained
 multiple internal intranets in Windows and *nix environments. HTML, CSS and
 JavaScript for client-facing web applications. Created sales demo prototype
 websites.
 
 
-
 ###  Internet Broadcasting Systems  ###
+
 > St. Paul MN                                        * July 2000 – August 2001 *
 
 #### Senior Content Programmer ####
+
 Created and managed content for five news websites using XSLT, HTML, JavaScript,
 and CSS. Launched two new sites and multiple new content types. Analyzed page
 performance and implemented fixes to improve server resouce utilization and page
@@ -120,19 +126,21 @@ weight.
 
 
 ### Mortenson Construction ###
+
 > Golden Valley MN                                    * March 1996 – July 2000 *
 
 #### Scheduling Engineer ####
+
 Scheduled commercial construction projects with budgets ranging from $10K – $100M
 with Primavera P3.
 
-
 #### Field Engineer ####
+
 Managed projects and related documents, reviewed specifications, and wrote
 contracts.
 
-
 #### Estimator ####
+
 Analyzed proposals, managed subcontractor relationships, estimated costs, and
 assembled bids.
 
@@ -140,6 +148,7 @@ assembled bids.
 
 Education
 --------------------------------------------------------------------------------
+
 **University of Minnesota at Minneapolis**, Construction Management
 
 **University of Minnesota at Morris**, Chemistry
@@ -148,5 +157,6 @@ Education
 
 References
 --------------------------------------------------------------------------------
+
 Available on request.
 
