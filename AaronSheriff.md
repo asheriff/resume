@@ -8,7 +8,7 @@ aaron.sheriff@gmail.com
 
 Summary
 --------------------------------------------------------------------------------
-Web developer with 14 years experience creating sites from conception through
+Web developer with 15 years experience creating sites from conception through
 implementation and maintenance. Strong experience in MVC frameworks and Ajax
 development. Proficient in cross-browser CSS and JavaScript, including
 integrating 3rd party libraries and content. Solid knowledge of systems
@@ -26,7 +26,7 @@ Skills
 *  __Frameworks and Libraries__
 
     jQuery, jQuery UI, Backbone, Backbone.Marionette, Underscore, Jasmine, Mocha,
-    Sinon, :SASS, Compass, Stylus, HAML, Handlebars
+    Sinon, :SASS, Compass, Stylus, HAML, Handlebars, jshint, jscs
 
 *   __Technologies__
 
@@ -66,8 +66,14 @@ training and support for new Git users. Assisted in creating process work flows
 using 3rd party tools such as Jira, Bitbucket, Crucible, and Jenkins to
 facilitate issue tracking, code reviews, automated builds, and release management.
 
-Participated in recruiting, interviewing, and hiring decisions. Tasked Jr. front
-and back-end developers.
+Created detailed estimates and assisted in creating project schedules from
+requirements documents. Introduced team to estimation techniques and
+methodologies from my construction scheduling background.
+
+Participated in writing job requirement, recruiting, interviewing, and hiring
+decisions. Tasked Jr. front and back-end developers. Member of 3 person
+Architecture Team.
+
 
 
 
