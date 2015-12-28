@@ -49,7 +49,7 @@ Experience
 
 > Minnetonka MN                                       * October 2011 – Present *
 
-#### Senior Web Applications Developer ####
+#### Principal Software Engineer, Web Development ####
 
 Co-architected asynchronous application framework utilizing
 DBus/Python/Rest/WebSockets and managed migration from legacy C++/XML-RPC stack.
