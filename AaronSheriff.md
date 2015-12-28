@@ -64,7 +64,7 @@ browserify/CommonJS, jasmine, and phantom.js.
 Championed migration from SVN to Git, migrated legacy repositories, and provided
 training and support for new Git users. Assisted in creating process work flows
 using 3rd party tools such as Jira, Bitbucket, Crucible, and Jenkins to
-facilitate issue tracking, code review, automated builds, and release management.
+facilitate issue tracking, code reviews, automated builds, and release management.
 
 Participated in recruiting, interviewing, and hiring decisions. Tasked Jr. front
 and back-end developers.
