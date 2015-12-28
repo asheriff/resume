@@ -4,7 +4,7 @@
   "description": "ERROR: No README.md file found!",
   "main": "index.js",
   "dependencies": {
-    "markdown-pdf": "~2.1.0"
+    "markdown-pdf": "^2.1.0"
   },
   "devDependencies": {},
   "scripts": {
