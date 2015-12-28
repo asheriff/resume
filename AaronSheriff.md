@@ -120,7 +120,7 @@ websites.
 
 Created and managed content for five news websites using XSLT, HTML, JavaScript,
 and CSS. Launched two new sites and multiple new content types. Analyzed page
-performance and implemented fixes to improve server resouce utilization and page
+performance and implemented fixes to improve server resource utilization and page
 weight.
 
 
